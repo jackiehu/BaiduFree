@@ -1,0 +1,97 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DifferenceKit",
+        "repositoryURL": "https://github.com/ra1028/DifferenceKit",
+        "state": {
+          "branch": null,
+          "revision": "62745d7780deef4a023a792a1f8f763ec7bf9705",
+          "version": "1.2.0"
+        }
+      },
+      {
+        "package": "EFQRCode",
+        "repositoryURL": "https://github.com/EFPrefix/EFQRCode",
+        "state": {
+          "branch": null,
+          "revision": "56278ea800d7fdc20f42cd77bdbf0fecc8c1c0c8",
+          "version": "6.2.0"
+        }
+      },
+      {
+        "package": "Kanna",
+        "repositoryURL": "https://github.com/tid-kijyun/Kanna",
+        "state": {
+          "branch": null,
+          "revision": "f9e4922223dd0d3dfbf02ca70812cf5531fc0593",
+          "version": "5.2.7"
+        }
+      },
+      {
+        "package": "ListDataSource",
+        "repositoryURL": "https://github.com/jackiehu/ListDataSource",
+        "state": {
+          "branch": null,
+          "revision": "fc55e9e9a1bf1562dd5ffffd7c31c24801f1a62c",
+          "version": "0.2.2"
+        }
+      },
+      {
+        "package": "SnapKit",
+        "repositoryURL": "https://github.com/SnapKit/SnapKit.git",
+        "state": {
+          "branch": null,
+          "revision": "d458564516e5676af9c70b4f4b2a9178294f1bc6",
+          "version": "5.0.1"
+        }
+      },
+      {
+        "package": "swift_qrcodejs",
+        "repositoryURL": "https://github.com/ApolloZhu/swift_qrcodejs.git",
+        "state": {
+          "branch": null,
+          "revision": "374dc7f7b9e76c6aeb393f6a84590c6d387e1ecb",
+          "version": "2.2.2"
+        }
+      },
+      {
+        "package": "SwiftBrick",
+        "repositoryURL": "https://github.com/jackiehu/SwiftBrick",
+        "state": {
+          "branch": null,
+          "revision": "f14a983dcd90c3b1892c3406dffd79e590ab2619",
+          "version": "1.9.0"
+        }
+      },
+      {
+        "package": "SwiftButton",
+        "repositoryURL": "https://github.com/jackiehu/SwiftButton.git",
+        "state": {
+          "branch": null,
+          "revision": "f187fb608de39da4365d4c4d97564f01818844d8",
+          "version": "1.1.0"
+        }
+      },
+      {
+        "package": "SwiftEmptyData",
+        "repositoryURL": "https://github.com/jackiehu/SwiftEmptyData",
+        "state": {
+          "branch": null,
+          "revision": "448710cee88363e9d68913c9444ffecdc21b707f",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "SwiftShow",
+        "repositoryURL": "https://github.com/jackiehu/SwiftShow",
+        "state": {
+          "branch": null,
+          "revision": "453f78e1b9760fff41481b2d2e9125c0a4500bf0",
+          "version": "0.7.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

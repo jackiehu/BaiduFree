@@ -62,6 +62,7 @@ class ViewController: JHTableViewController {
     
     func tableViewConfig(){
         dataSource.didSelectRow { tableView, index, model in
+            tableView.deselectRow(at: index, animated: true)
             if let image = EFQRCode.generate(for: model.url, size: EFIntSize.init(width: 200, height: 200)) {
                 let content = UIImageView.init(frame: CGRect.init(x: 300, y: 100, width: 200, height: 200))
                 content.image = UIImage(cgImage: image)

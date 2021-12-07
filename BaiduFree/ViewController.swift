@@ -41,6 +41,7 @@ class ViewController: JHTableViewController {
     
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
+        
         for index in 1998...2150 {
             let string = "https://pan.baidu.com/component/view/" + "\(index)"
             let result = self.fetchHtml(string: string)
